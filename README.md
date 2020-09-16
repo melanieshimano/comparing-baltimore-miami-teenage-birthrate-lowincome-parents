@@ -11,8 +11,8 @@ How do the teen birth rates from girls in low-income families in Baltimore, MD a
 
 ## Data Sources
 1. Opportunity Atlas
-  - [Miami] (https://github.com/vickidecastro/comparing-baltimore-miami-teenage-birthrate-lowincome-parents/blob/master/shown_tract_teenbirth_rP_gF_p25%20miami.csv): Original open data on teenage birth rates of females from low-income families in Miami, FL
-  - [Baltimore] (https://github.com/vickidecastro/comparing-baltimore-miami-teenage-birthrate-lowincome-parents/blob/master/shown_tract_teenbirth_rP_gF_p25%20baltimore.csv): Original open data on teenage birth rates of females from low-income families in Baltimore, MD
+  - [Miami] (https://github.com/vickidecastro/comparing-baltimore-miami-teenage-birthrate-lowincome-parents/blob/master/shown_tract_teenbirth_rP_gF_p25%20miami.csv) : Original open data on teenage birth rates of females from low-income families in Miami, FL
+  - [Baltimore] (https://github.com/vickidecastro/comparing-baltimore-miami-teenage-birthrate-lowincome-parents/blob/master/shown_tract_teenbirth_rP_gF_p25%20baltimore.csv) : Original open data on teenage birth rates of females from low-income families in Baltimore, MD
   
   ## Data Analysis
   ### What are the mean teen birth rates in each city? 
