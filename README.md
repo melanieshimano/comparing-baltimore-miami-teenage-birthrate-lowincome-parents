@@ -4,7 +4,7 @@
   
   This topic is interesting in particular because although teenage birth rates in the US have gone down, the _absolute_ teenage birth rate is still high in the country. In 2010, the birth rate of teenage girls in the US was 34.3 births per 1,000 people, a lotable low. However, absolute teenage births were still very high at 370,000 total teenage births in the same year. Further research is necessary in this sphere to tackle the factors that impact teenage birth rate and to identify any possible interventions. 
   
-  This project explores the available data on teenage birth rates of females from low-income families in Baltimore, MD and Miami, FL. We are using open data from the Opportunity Atlas Group. 
+  This project explores the available data on teenage birth rates of females from low-income families in Baltimore, MD and Miami, FL. We are using open data from the Opportunity Atlas Group. The data takes teenage birth rates from tracts within neighborhoods in each city. Several tracts can make up a neighborhood.
   
   ## Business Question
 How do the teen birth rates from girls in low-income families in Baltimore, MD and Miami, FL compare?
