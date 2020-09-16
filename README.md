@@ -15,8 +15,8 @@ What impact does low parental income have on teenage birth rates in females aged
   - Baltmiore: Original open data on teenage birth rates of females from low-income families in Baltimore, MD
   
   ## Data Analysis
-  ### What are the maximum and minimum teenage birht rates in each city and where are they located? 
+  ### What are the maximum and minimum teenage birth rates in each city and where are they located? 
   
   ### Which neighborhoods in Miami and Baltimore have the top 5 highest teenage birth rates? 
   
-  ### What are the aprental income levels of these neighborhoods? 
+  ### What are the parental income levels of these neighborhoods? 
