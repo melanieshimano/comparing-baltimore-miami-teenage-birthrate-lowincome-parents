@@ -19,6 +19,6 @@ How do the teen birth rates from girls in low-income families in Baltimore, MD a
   
   ### What are the maximum and minimum teenage birth rates in each city and where are they located? 
   
-  ### Which neighborhoods in Miami and Baltimore have the top 5 highest teenage birth rates? 
+  ### Which neighborhoods in Miami and Baltimore have the top 5 highest average teenage birth rates? 
   
   ### What are the parental income levels of these neighborhoods? 
