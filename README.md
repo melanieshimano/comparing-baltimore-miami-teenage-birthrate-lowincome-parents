@@ -7,14 +7,16 @@
   This project explores the available data on teenage birth rates of females from low-income families in Baltimore, MD and Miami, FL. We are using open data from the Opportunity Atlas Group. 
   
   ## Business Question
-What impact does low parental income have on teenage birth rates in females aged 13-19 years old in the cities of Baltimore, MD and Miami, FL? 
+How do the teen birth rates from girls in low-income families in Baltimore, MD and Miami, FL compare?
 
 ## Data Sources
 1. Opportunity Atlas
-  - Miami: Original open data on teenage birth rates of females from low-income families in Miami, FL
-  - Baltmiore: Original open data on teenage birth rates of females from low-income families in Baltimore, MD
+  - [Miami] (https://github.com/vickidecastro/comparing-baltimore-miami-teenage-birthrate-lowincome-parents/blob/master/shown_tract_teenbirth_rP_gF_p25%20miami.csv): Original open data on teenage birth rates of females from low-income families in Miami, FL
+  - [Baltimore] (https://github.com/vickidecastro/comparing-baltimore-miami-teenage-birthrate-lowincome-parents/blob/master/shown_tract_teenbirth_rP_gF_p25%20baltimore.csv): Original open data on teenage birth rates of females from low-income families in Baltimore, MD
   
   ## Data Analysis
+  ### What are the mean teen birth rates in each city? 
+  
   ### What are the maximum and minimum teenage birth rates in each city and where are they located? 
   
   ### Which neighborhoods in Miami and Baltimore have the top 5 highest teenage birth rates? 
