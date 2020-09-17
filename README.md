@@ -20,16 +20,17 @@ How do the teen birth rates from girls in low-income families in Baltimore, MD a
   - Exploring the average teen birth rates in each city
   ### What are the maximum and minimum teenage birth rates in each city and where are they located?
   - Exploring the highest and lowest rates of teen birth in each city 
-  ![Min Mean Max Teenage Birth Rates mia balti](https://user-images.githubusercontent.com/70858878/93406352-7235d900-f85d-11ea-91ce-ce0e2bcf9d1f.png)
+ ![meanminmax](https://user-images.githubusercontent.com/70858878/93407536-74e5fd80-f860-11ea-9cfc-d6c5dda4c12e.png)
 
   <img width="354" alt="Screen Shot 2020-09-16 at 8 29 04 PM" src="https://user-images.githubusercontent.com/70858878/93405593-5e897300-f85b-11ea-81da-5f568364e5e7.png">
   
   ### Which neighborhoods in Miami and Baltimore have the top 5 highest average teenage birth rates? 
   - Exploring the areas with the highest average teen birth rates. Averages have been taken from the tracts within each neighborhood.
-![highest teenage birth rates mia balti](https://user-images.githubusercontent.com/70858878/93405310-a1971680-f85a-11ea-8440-44e89603c440.png)
+![highestavgteenbirthrates](https://user-images.githubusercontent.com/70858878/93407568-862f0a00-f860-11ea-9091-5c5d36fe6495.png)
+
 
   ### What are the parental income levels of these neighborhoods? 
-  - The data from the Opportunity Atlas Group specifically looked at low-income families, which are defined as in the bottom 25% of the income disribution. 
+ - Low-income families are defined as in the bottom 25% of the income disribution. 
 
 ## Overall Process
 <img width="844" alt="Screen Shot 2020-09-16 at 8 02 52 PM" src="https://user-images.githubusercontent.com/70858878/93404989-c212a100-f859-11ea-8241-ab672cd1dab3.png">
