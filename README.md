@@ -4,7 +4,7 @@
   
   This topic is interesting because although teenage birth rates in the US have gone down, the _absolute_ teenage birth rate is  high in the country. In 2010, the birth rate of teenage girls in the US was a low 34.3 births per 1,000 people. However, absolute teenage births were still high at 370,000 total teenage births in the same year. Further research is necessary in this sphere to tackle the factors that impact teenage birth rates and to identify any possible interventions. 
   
-  This project explores the available open data from the Oppotrunity Atlas Group on teenage birth rates of females from low-income families in Baltimore, MD and Miami, FL. The data takes teenage birth rates from tracts within neighborhoods in each city. Several tracts can make up a neighborhood.
+  This project explores the available open data from the Opportunity Atlas Group on teenage birth rates of females from low-income families in Baltimore, MD and Miami, FL. The data takes teenage birth rates from tracts within neighborhoods in each city. Several tracts can make up a neighborhood.
   
   ## Business Question
 How do the teen birth rates from girls in low-income families in Baltimore, MD and Miami, FL compare?
@@ -30,8 +30,13 @@ How do the teen birth rates from girls in low-income families in Baltimore, MD a
 
 
   ### What are the parental income levels of these neighborhoods? 
- - Low-income families are defined as in the bottom 25% of the income disribution. 
+ - Low-income families are defined as in the bottom 25% of the income distribution. 
 
 
 ## Overall Process
 <img width="844" alt="Screen Shot 2020-09-16 at 8 02 52 PM" src="https://user-images.githubusercontent.com/70858878/93404989-c212a100-f859-11ea-8241-ab672cd1dab3.png">
+
+## Summary
+- The findings above show us that, on average, teenage birth rates of females from low-income families tend to be higher in Baltimore, MD than in Miami, FL. 
+- The mean and maximum teen birth rates in Baltimore were higher than in Miami. 
+- The areas with the top 5 highest average teen birth rates were higher than the top 5 areas in Miami. 
