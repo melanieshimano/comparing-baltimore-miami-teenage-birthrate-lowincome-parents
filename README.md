@@ -16,9 +16,9 @@ How do the teen birth rates from females in low-income families in Baltimore, MD
   - Teenage birth rate is defined as the fraction of women who claimed to have had a child while the mother was between the ages of 13-19, who also claimed dependent status. It is important to note that these estimates have a margin of error and that any time "Teen" or "Teenage birth rate" are mentioned, this refers to the birth rate of teenage girls coming from low-income families.
   
   ## Data Analysis and Answers
-  ### Mean teen birth rates in each city? 
+  ### What are the mean teen birth rates in each city? 
   - Exploring average teen birth rates in each city using basic Excel functions
-  ### Maximum and minimum teenage birth rates in each city?
+  ### What are the maximum and minimum teenage birth rates in each city?
   - Exploring highest and lowest rates of teen birth using basic Excel functions
 ![Picture1](https://user-images.githubusercontent.com/70858878/93416145-2b52de00-f873-11ea-9478-609798f14195.png)
 
@@ -28,7 +28,7 @@ How do the teen birth rates from females in low-income families in Baltimore, MD
   - Exploring areas with the highest average teen birth rates usig Pivot Tables, data reorganization, and vlookups. Averages have been taken from the tracts within each neighborhood.
 ![highestavgteenbirthrates](https://user-images.githubusercontent.com/70858878/93407568-862f0a00-f860-11ea-9091-5c5d36fe6495.png)
 
-  ### Parental income level? 
+  ### What is the parental income level? 
  - Low-income families are defined as in the bottom 25% of the income distribution. 
 
 ## Overall Process
