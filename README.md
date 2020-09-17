@@ -13,6 +13,7 @@ How do the teen birth rates from girls in low-income families in Baltimore, MD a
 1. Opportunity Atlas
   - [Miami](https://github.com/vickidecastro/comparing-baltimore-miami-teenage-birthrate-lowincome-parents/blob/master/shown_tract_teenbirth_rP_gF_p25%20miami.csv): Original open data on teenage birth rates of females from low-income families in Miami, FL
   - [Baltimore](https://github.com/vickidecastro/comparing-baltimore-miami-teenage-birthrate-lowincome-parents/blob/master/shown_tract_teenbirth_rP_gF_p25%20baltimore.csv): Original open data on teenage birth rates of females from low-income families in Baltimore, MD
+  - Teenage birth rate is defined as the fraction of women who claimed to have ever had a child between the ages of 13 - 19 who claimed dependent status when filing taxes. It is important to note that these estimates have a margin of error. 
   
   ## Data Analysis
   ### What are the mean teen birth rates in each city? 
