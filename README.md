@@ -20,7 +20,7 @@ How do the teen birth rates from females in low-income families in Baltimore, MD
   - Exploring average teen birth rates in each city using basic Excel functions
   ### Maximum and minimum teenage birth rates in each city?
   - Exploring highest and lowest rates of teen birth using basic Excel functions
- ![meanminmax](https://user-images.githubusercontent.com/70858878/93407536-74e5fd80-f860-11ea-9cfc-d6c5dda4c12e.png)
+![Picture1](https://user-images.githubusercontent.com/70858878/93416145-2b52de00-f873-11ea-9478-609798f14195.png)
 
   <img width="800" alt="Screen Shot 2020-09-16 at 8 29 04 PM" src="https://user-images.githubusercontent.com/70858878/93405593-5e897300-f85b-11ea-81da-5f568364e5e7.png">
  
