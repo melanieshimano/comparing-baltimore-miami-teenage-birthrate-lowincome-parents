@@ -38,3 +38,4 @@ How do the teen birth rates from females in low-income families in Baltimore, MD
 - The findings above show us that, on average, teenage birth rates of females from low-income families tend to be higher in Baltimore, MD than in Miami, FL. 
 - The mean and maximum teen birth rates in Baltimore were higher than in Miami. 
 - The areas with the top 5 highest average teen birth rates were higher than the top 5 areas in Miami. 
+-Additional data on specific income levels of families in neighborhoods would be helpful. 
