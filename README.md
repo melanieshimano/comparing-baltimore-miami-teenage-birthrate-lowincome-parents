@@ -2,7 +2,7 @@
 ## Background
   The article [Socioeconomic Disadvantage as a Social Determinant of Teen Childbearing in the U.S.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3562742/) finds that "unfavorable socioeconomic conditions" are a contributing factor to high teen birth rates in the United States. Teenage births are associated with adverse outcomes for the child-- including low birthweight, preterm birth, and infant death-- and the mother. 
   
-  This topic is interesting because although teenage birth rates in the US have gone down, the _absolute_ teenage birth rate is  high in the country. In 2010, the birth rate of teenage girls in the US was 34.3 births per 1,000 people, a notable low. However, absolute teenage births were still high at 370,000 total teenage births in the same year. Further research is necessary in this sphere to tackle the factors that impact teenage birth rates and to identify any possible interventions. 
+  This topic is interesting because although teenage birth rates in the US have gone down, the _absolute_ teenage birth rate is  high in the country. In 2010, the birth rate of teenage girls in the US was a low 34.3 births per 1,000 people. However, absolute teenage births were still high at 370,000 total teenage births in the same year. Further research is necessary in this sphere to tackle the factors that impact teenage birth rates and to identify any possible interventions. 
   
   This project explores the available open data from the Oppotrunity Atlas Group on teenage birth rates of females from low-income families in Baltimore, MD and Miami, FL. The data takes teenage birth rates from tracts within neighborhoods in each city. Several tracts can make up a neighborhood.
   
@@ -29,7 +29,7 @@ How do the teen birth rates from girls in low-income families in Baltimore, MD a
 ![highest teenage birth rates mia balti](https://user-images.githubusercontent.com/70858878/93405310-a1971680-f85a-11ea-8440-44e89603c440.png)
 
   ### What are the parental income levels of these neighborhoods? 
-  -The data from the Opportunity Atlas Group specifically looked at low-income families, which are defined as in the bottom 25% of the income disribution. 
+  - The data from the Opportunity Atlas Group specifically looked at low-income families, which are defined as in the bottom 25% of the income disribution. 
 
 ## Overall Process
 <img width="844" alt="Screen Shot 2020-09-16 at 8 02 52 PM" src="https://user-images.githubusercontent.com/70858878/93404989-c212a100-f859-11ea-8241-ab672cd1dab3.png">
