@@ -22,7 +22,7 @@ How do the teen birth rates from girls in low-income families in Baltimore, MD a
   - Exploring the highest and lowest rates of teen birth in each city 
  ![meanminmax](https://user-images.githubusercontent.com/70858878/93407536-74e5fd80-f860-11ea-9cfc-d6c5dda4c12e.png)
 
-  <img width="354" alt="Screen Shot 2020-09-16 at 8 29 04 PM" src="https://user-images.githubusercontent.com/70858878/93405593-5e897300-f85b-11ea-81da-5f568364e5e7.png">
+  <img width="800" alt="Screen Shot 2020-09-16 at 8 29 04 PM" src="https://user-images.githubusercontent.com/70858878/93405593-5e897300-f85b-11ea-81da-5f568364e5e7.png">
   
   ### Which neighborhoods in Miami and Baltimore have the top 5 highest average teenage birth rates? 
   - Exploring the areas with the highest average teen birth rates. Averages have been taken from the tracts within each neighborhood.
@@ -31,6 +31,7 @@ How do the teen birth rates from girls in low-income families in Baltimore, MD a
 
   ### What are the parental income levels of these neighborhoods? 
  - Low-income families are defined as in the bottom 25% of the income disribution. 
+
 
 ## Overall Process
 <img width="844" alt="Screen Shot 2020-09-16 at 8 02 52 PM" src="https://user-images.githubusercontent.com/70858878/93404989-c212a100-f859-11ea-8241-ab672cd1dab3.png">
