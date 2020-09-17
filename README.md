@@ -9,6 +9,10 @@
   ## Business Question
 How do the teen birth rates from females in low-income families in Baltimore, MD and Miami, FL compare?
 
+![map baltimore](https://user-images.githubusercontent.com/70858878/93527342-b7faac00-f906-11ea-98fa-94bce6585781.png)
+![map miami](https://user-images.githubusercontent.com/70858878/93527382-c9dc4f00-f906-11ea-9789-ecd7afbe4f54.png)
+
+
 ## Data Sources
 1. Opportunity Atlas
   - [Miami](https://github.com/vickidecastro/comparing-baltimore-miami-teenage-birthrate-lowincome-parents/blob/master/shown_tract_teenbirth_rP_gF_p25%20miami.csv): Original open data on teenage birth rates of females from low-income families in Miami, FL
